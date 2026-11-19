@@ -1,0 +1,15 @@
+{
+  "name": "pin-directions",
+  "icon": "icon.png",
+  "description": "The pin on a direction in the sidebar keeps it at the top of the \"Directions\" block",
+  "why": "Your main directions stay on top, however many there are",
+  "version": "1.2.0",
+  "hub": "^1.10",
+  "web": "main.js",
+  "i18n": {
+    "ru": {
+      "description": "Булавка у направления в боковой панели закрепляет его вверху блока «Направления»",
+      "why": "Главные направления всегда наверху, сколько бы их ни стало"
+    }
+  }
+}
